@@ -1,4 +1,4 @@
-;; schema/association-rule.edn — DataScript schema for `association.facts`
+;; schema/association-rule.edn — DataScript schema for `association-facts`
 ;; (ADR-2607141700). Identical shape to the sibling
 ;; cloud-itonami-assoc-6419-jpn-zenginkyo / -6512-jpn-sonpo / -6612-jpn-jsda /
 ;; -6419-deu-bankenverband / -6612-usa-finra / -6512-usa-naic /
